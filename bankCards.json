@@ -1,0 +1,50 @@
+[
+    {
+        "pin": 290902,
+        "bankName": "BIDV",
+        "iD": "1100296481",
+        "name": "Khai",
+        "phoneNumber": "03079737",
+        "balance": 9000000
+    },
+    {
+        "pin": 121122,
+        "bankName": "Vietcombank",
+        "iD": "11294881",
+        "name": "Hung",
+        "phoneNumber": "02991639",
+        "balance": 7999868
+    },
+    {
+        "pin": 234578,
+        "bankName": "Techcombank",
+        "iD": "1100281987",
+        "name": "Dat",
+        "phoneNumber": "02123123",
+        "balance": 7000000
+    },
+    {
+        "pin": 291981,
+        "bankName": "Argibank",
+        "iD": "1100277347",
+        "name": "Bao",
+        "phoneNumber": "09990381",
+        "balance": 6000000
+    },
+    {
+        "pin": 125402,
+        "bankName": "Sacombank",
+        "iD": "1100188134",
+        "name": "Duc",
+        "phoneNumber": "0995994",
+        "balance": 499637
+    },
+    {
+        "pin": 873456,
+        "bankName": "SHSB",
+        "iD": "1100255678",
+        "name": "Thuan",
+        "phoneNumber": "0574190",
+        "balance": 800000
+    }
+]
