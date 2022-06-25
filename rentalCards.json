@@ -1,0 +1,182 @@
+[
+    {
+        "username": "khaitq",
+        "password": 23145,
+        "email": "khaitq@gmail.com",
+        "iD": "1100296481",
+        "name": "Khai",
+        "phoneNumber": "03079737",
+        "balance": 0,
+        "numberPlate": "C801",
+        "rentalTime": 1654447674598,
+        "bicycle": {
+            "numberPlate": "C801",
+            "type": "City",
+            "color": "Red",
+            "manufacturer": "Giant",
+            "status": "Currently for rent"
+        },
+        "bankCard": {
+            "pin": 290902,
+            "bankName": "BIDV",
+            "iD": "1100296481",
+            "name": "Khai",
+            "phoneNumber": "03079737",
+            "balance": 9000000
+        }
+    },
+    {
+        "username": "trangqt",
+        "password": 123456,
+        "email": "trangqt@gmail.com",
+        "iD": "123",
+        "name": "Trang",
+        "phoneNumber": "07669805",
+        "balance": 8000000,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "baolhg",
+        "password": 108023,
+        "email": "baolhg@gmail.com",
+        "iD": "123",
+        "name": "Bao",
+        "phoneNumber": "035675853",
+        "balance": 1000000,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "tunt",
+        "password": 452353,
+        "email": "tunt@gmail.com",
+        "iD": "123",
+        "name": "Tu",
+        "phoneNumber": "045609834",
+        "balance": 500000,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "tand",
+        "password": 975321,
+        "email": "tand@gmail.com",
+        "iD": "123",
+        "name": "Tan",
+        "phoneNumber": "076655853",
+        "balance": 5000000,
+        "numberPlate": "A304",
+        "rentalTime": 1654447897475,
+        "bicycle": {
+            "numberPlate": "A304",
+            "type": "Mountain",
+            "color": "Yellow",
+            "manufacturer": "Giant",
+            "status": "Currently for rent"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "thuannlq",
+        "password": 437890,
+        "email": "thuanngl@gmail.com",
+        "iD": "1100255678",
+        "name": "Thuan",
+        "phoneNumber": "0574190",
+        "balance": 0,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "pin": 873456,
+            "bankName": "SHSB",
+            "iD": "1100255678",
+            "name": "Thuan",
+            "phoneNumber": "0574190",
+            "balance": 800000
+        }
+    },
+    {
+        "username": "khai2",
+        "password": 123456,
+        "email": "khai2@gmail.com",
+        "iD": "123",
+        "name": "Khai 123",
+        "phoneNumber": "086815253",
+        "balance": 15000000,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "hungnt1",
+        "password": 123456,
+        "email": "hungnt1@gmai.com",
+        "iD": "123",
+        "name": "Nguyen Truong Hung",
+        "phoneNumber": "0868014517",
+        "balance": 15210000,
+        "numberPlate": "C802",
+        "rentalTime": 1655626901688,
+        "bicycle": {
+            "numberPlate": "C802",
+            "type": "City",
+            "color": "Black",
+            "manufacturer": "Giant",
+            "status": "Currently for rent"
+        },
+        "bankCard": {
+            "iD": "123"
+        }
+    },
+    {
+        "username": "hungnt3",
+        "password": 123321,
+        "email": "hungnt3@gmail.com",
+        "iD": "1100277347",
+        "name": "Bao",
+        "phoneNumber": "09990381",
+        "balance": 0,
+        "numberPlate": "0000",
+        "bicycle": {
+            "numberPlate": "0000",
+            "status": "Ready"
+        },
+        "bankCard": {
+            "pin": 291981,
+            "bankName": "Argibank",
+            "iD": "1100277347",
+            "name": "Bao",
+            "phoneNumber": "09990381",
+            "balance": 6000000
+        }
+    }
+]
